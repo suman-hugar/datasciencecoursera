@@ -1,2 +1,7 @@
-//python code to display hello world
+#python code to display hello world
+#*
+#*
 print ("hellow world")
+#
+#
+#
